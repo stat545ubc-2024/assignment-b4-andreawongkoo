@@ -1,4 +1,4 @@
-# Assignment B4
+# Assignment B4 Part A: Word Counts & Substance Use Data Analysis
 
 ## Overview
 This project contains two exercises in Part A of  STAT 545B Assignment 4:
