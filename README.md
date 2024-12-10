@@ -25,7 +25,7 @@ Using the `sud` dataset, we built linear regression models to predict the number
 
 ## Repository Contents
 - `STAT 545B Assignment B4 Part A - Andrea Wong Koo.Rmd`: R markdown file containing both exercises.
-- `STAT 545B Assignment B4 Part A - Andrea Wong Koo.md`: Markdown version of the Rmd file.
+- `STAT-545B-Assignment-B4-Part-A---Andrea-Wong-Koo.md`: Markdown version of the Rmd file.
 - `STAT-545B-Assignment-B4-Part-A---Andrea-Wong-Koo_files`: Folder with figures generated.
 
 ## Repository Usage
